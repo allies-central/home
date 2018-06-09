@@ -12,3 +12,5 @@ Changelog
   - Added fonts to the CSS file.
   - Added a border to the paragraph (still needs troubleshooting).
   - Added a CODE_OF_CONDUCT file to highlight the code of conduct on this website.
+  - Created a CONTRIBUTING.md file to highlight contribution rules.
+  - Added a rule to CONTRIBUTING.md
