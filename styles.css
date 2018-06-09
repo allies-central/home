@@ -1,5 +1,4 @@
 body {
-      border: 3px solid red;
       background-color: powderblue;
 }
 
@@ -10,6 +9,7 @@ h1 {
 }
 
 p {
+  border: 1px solid powderblue;
   color: red;
   font-family: courier;
   font-size: 160%;
