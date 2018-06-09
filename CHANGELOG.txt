@@ -15,3 +15,4 @@ Changelog
   - Added a rule to CONTRIBUTING.md
   - Added a border, margin and padding to the Body in styles.css
   - Customised index.html
+  - Completley changed README.md
