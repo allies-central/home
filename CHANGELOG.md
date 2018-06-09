@@ -10,3 +10,5 @@ Changelog
 [9-6-2018] Added support for CSS to website {Added CSS stylesheet link to index.html}
 
 [9-6-2018] Added basic styling to the CSS file.
+
+[9-6-2018] Added fonts to the CSS file.
