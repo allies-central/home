@@ -1,16 +1,12 @@
 ----------
 Changelog
 ----------
-5-6-2018: 
+[5-6-2018] 
+  - Created index.html for the website.
+  - Added the README.md file to the website.
 
-Created index.html for the website.
-
-[5-6-2018] Added the README.md file to the website.
-
-[9-6-2018] Created styles.css.
-
-[9-6-2018] Added support for CSS to website {Added CSS stylesheet link to index.html}
-
-[9-6-2018] Added basic styling to the CSS file.
-
-[9-6-2018] Added fonts to the CSS file.
+[9-6-2018] 
+  - Created styles.css.
+  - Added support for CSS to website {Added CSS stylesheet link to index.html}
+  - Added basic styling to the CSS file.
+  - Added fonts to the CSS file.
