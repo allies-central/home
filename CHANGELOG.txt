@@ -10,7 +10,8 @@ Changelog
   - Added support for CSS to website {Added CSS stylesheet link to index.html}
   - Added basic styling to the CSS file.
   - Added fonts to the CSS file.
-  - Added a border to the paragraph (still needs troubleshooting).
   - Added a CODE_OF_CONDUCT file to highlight the code of conduct on this website.
   - Created a CONTRIBUTING.md file to highlight contribution rules.
   - Added a rule to CONTRIBUTING.md
+  - Added a border, margin and padding to the Body in styles.css
+  
